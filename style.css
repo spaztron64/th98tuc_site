@@ -1,6 +1,10 @@
 a{
 	color:cyan;
 }
+body{
+    background-image:url("bg/stars.png");
+    color:#FFFFFF;
+}
 #marisa{
 	position:absolute;
 	left:40px;
