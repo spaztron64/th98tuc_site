@@ -1,4 +1,3 @@
-# th98tuc_site
-Touhou PC-98: The Ultimate Collection website
+#th98tuc_site
 
-Report issues regarding The Ulimate Collection project in this repository's issue tracker.
+This project is discontinued due to legal issues with Team Shanghai Alice.
